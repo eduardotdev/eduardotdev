@@ -1,6 +1,9 @@
 # Olá! Eu sou o Eduardo Tavares 👋🏼👨🏽‍💻
 
 ### Me encontre nas redes sociais 🌎:
+
+- Meu portfolio [eduardot.dev](), feito com modelagens 3D, onde destaco as minhas habilidades!
+
 <!--
 **eduardotdev/eduardotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
