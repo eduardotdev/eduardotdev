@@ -1,5 +1,24 @@
 # Olá! Eu sou o Eduardo Tavares 👋🏼👨🏽‍💻
 
+### Habilidades
+<div>
+  <span>
+    <img align="center" alt="React.Js" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+    <img align="center" alt="Next.Js" height="40" width="40" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png">
+  </span>
+  <span>&nbsp;</span>
+  <span>
+    <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  </span>
+  <span>&nbsp;</span>
+  <span>
+    <img align="center" alt="HTML" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  </span>
+</div>
+
+
 ### Me encontre nas redes sociais 🌎:
 
 * Portfolio [eduardot.dev](), feito com modelagens 3D, onde destaco as minhas habilidades!
