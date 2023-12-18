@@ -2,7 +2,11 @@
 
 ### Habilidades
 <div>
-    <span>
+   <span>
+    <img align="center" alt="Node.Js" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  </span>
+    <span>&nbsp;</span>
+  <span>
     <img align="center" alt="TailwindCSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
     <img align="center" alt="Styled-Components" height="40" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
   </span>
