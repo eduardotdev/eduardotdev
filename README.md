@@ -4,7 +4,7 @@
 <div>
    <span>
     <img align="center" alt="Node.Js" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Node.Js" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
+    <img align="center" alt="Nest.Js" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
   </span>
     <span>&nbsp;</span>
     <span>&nbsp;</span>
