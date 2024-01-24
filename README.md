@@ -39,7 +39,7 @@
 
 ### Me encontre nas redes sociais 🌎:
 
-* Portfolio [eduardot.dev](), feito com modelagens 3D, onde destaco as minhas habilidades
+* Portfolio [eduardot.dev](), onde destaco as minhas habilidades
 * Experiências, bootcamps, estudos, currículo e muito mais [linkedin/in/eduardotdev]()
 
 <!--
